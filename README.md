@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/felipeplets/felipeplets/blob/master/devcard.svg" width="400" alt="Felipe Plets Dev Card"/></a>
+
 <!--
 **felipeplets/felipeplets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
