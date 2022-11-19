@@ -21,7 +21,7 @@
   </a>
   <a href="https://api.daily.dev/felipeplets" target="_blank">
     <img
-      width="256"
+      width="325"
       align="right"
       alt="Felipe Plets Dev Card"
       src="https://raw.githubusercontent.com/felipeplets/felipeplets/main/devcard.svg"
