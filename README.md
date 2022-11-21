@@ -24,10 +24,14 @@
       width="325"
       align="right"
       alt="Felipe Plets Dev Card"
-      src="https://raw.githubusercontent.com/felipeplets/felipeplets/main/devcard.svg"
+      src="https://raw.githubusercontent.com/felipeplets/felipeplets/main/devcard/devcard.svg"
     />
   </a>
 </div>
+
+![Metrics](https://raw.githubusercontent.com/felipeplets/felipeplets/main/metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/felipeplets/felipeplets/main/metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/felipeplets/felipeplets/main/metrics/achievements.svg)
 
 
 <!-- 🔭 I’m currently working on ...
