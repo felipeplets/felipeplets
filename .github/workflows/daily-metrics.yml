@@ -19,6 +19,7 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.6
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
+          commit_filename: devcard/devcard.svg
 
   stats:
     runs-on: ubuntu-latest
@@ -29,14 +30,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
+          committer_branch: main
           committer_message: "build: update `${filename}`"
 
           # Options
           user: felipeplets
           template: classic
           base: header, activity, community
-          config_timezone: Europe/Oslo
+          filename: metrics/github-metrics.svg
 
   notable:
     runs-on: ubuntu-latest
@@ -47,7 +48,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
+          committer_branch: main
           committer_message: "build: update `${filename}`"
 
           # Options
@@ -55,9 +56,8 @@ jobs:
           template: classic
           base: ""
           config_display: large
-          config_timezone: Europe/Oslo
           config_output: svg
-          filename: notable.svg
+          filename: metrics/notable.svg
 
           # Notable contributions
           plugin_notable: yes
@@ -72,7 +72,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
+          committer_branch: main
           committer_message: "build: update `${filename}`"
 
           # Options
@@ -80,9 +80,8 @@ jobs:
           template: classic
           base: ""
           config_display: large
-          config_timezone: Europe/Oslo
           config_output: svg
-          filename: achievements.svg
+          filename: metrics/achievements.svg
           repositories_batch: 5
 
           # Achievement plugin
