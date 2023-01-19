@@ -24,7 +24,7 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.31
+      - uses: lowlighter/metrics@v3.32
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -42,7 +42,7 @@ jobs:
   notable:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.31
+      - uses: lowlighter/metrics@v3.32
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -66,7 +66,7 @@ jobs:
   achievements:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.31
+      - uses: lowlighter/metrics@v3.32
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
