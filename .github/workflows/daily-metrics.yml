@@ -110,4 +110,5 @@ jobs:
 
           # Achievement plugin
           plugin_16personalities: yes
+          plugin_16personalities_sections: personality, profile, traits
           plugin_16personalities_url: https://www.16personalities.com/profiles/9082edf1323a6

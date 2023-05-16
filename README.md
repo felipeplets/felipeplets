@@ -32,6 +32,8 @@
 ![Metrics](metrics/github-metrics.svg)
 ![Notable contributions](metrics/notable.svg)
 ![Achievements](metrics/achievements.svg)
+![16Personalities](metrics/16personalities.svg)
+
 
 
 <!-- 🔭 I’m currently working on ...
