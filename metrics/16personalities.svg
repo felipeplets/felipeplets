@@ -51,7 +51,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Extraverted</span> mind</span>
-                                <span class="text"> Mostly Extraverted. Likely gets energized by social interaction and tends to openly express their enthusiasm and excitement.</span>
+                                <span class="text"> Likely gets energized by social interaction and tends to openly express their enthusiasm and excitement.</span>
                             </div>
                         </div>
                         <div class="category energy">
@@ -62,7 +62,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Intuitive</span> energy</span>
-                                <span class="text"> Mostly Intuitive. Likely very imaginative and open-minded, focusing on hidden meanings and distant possibilities.</span>
+                                <span class="text"> Likely very imaginative and open-minded, focusing on hidden meanings and distant possibilities.</span>
                             </div>
                         </div>
                         <div class="category nature">
@@ -73,7 +73,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Feeling</span> nature</span>
-                                <span class="text"> Mostly Feeling. Likely values emotional expression and sensitivity, prioritizing empathy, social harmony, and cooperation.</span>
+                                <span class="text"> Likely values emotional expression and sensitivity, prioritizing empathy, social harmony, and cooperation.</span>
                             </div>
                         </div>
                         <div class="category tactics">
@@ -84,7 +84,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Judging</span> tactics</span>
-                                <span class="text"> Mostly Judging. Likely decisive, thorough, and highly organized. Values clarity and prefers planning to spontaneity.</span>
+                                <span class="text"> Likely decisive, thorough, and highly organized. Values clarity and prefers planning to spontaneity.</span>
                             </div>
                         </div>
                         <div class="category identity">
@@ -95,7 +95,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Turbulent</span> identity</span>
-                                <span class="text"> Mostly Turbulent. Likely self-conscious, sensitive to stress, success-driven, perfectionistic, and eager to improve.</span>
+                                <span class="text"> Likely self-conscious, sensitive to stress, success-driven, perfectionistic, and eager to improve.</span>
                             </div>
                         </div>
                     </section>
